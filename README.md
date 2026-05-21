@@ -20,5 +20,5 @@ A real-time multiplayer Tic Tac Toe game built with Python using socket programm
 3. Enter the server IP when prompted
 
 ## Screenshots
-![Gameplay](screenshot1.jpeg)
-![Game Over](screenshot2.jpeg)
+![Gameplay](screenshot1.jpg)
+![Game Over](screenshot2.jpg)
