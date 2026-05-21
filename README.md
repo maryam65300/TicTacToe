@@ -15,4 +15,10 @@ A real-time multiplayer Tic Tac Toe game built with Python using socket programm
 - Tkinter (GUI)
 
 ## How to Run
-1. Run the server first:
+1. Run the server first
+2. Run the client on two machines (or two terminals)
+3. Enter the server IP when prompted
+
+## Screenshots
+![Gameplay](screenshot1.jpeg)
+![Game Over](screenshot2.jpeg)
